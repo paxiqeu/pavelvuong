@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel Vuong</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
-![typing-fast](https://github.com/paxiqeu/pavelvuong/assets/145435428/ed5cae9b-a58c-4db0-9fd9-59b609ee7688)
 
-- 🌱 I’m currently learning **javascript**
+![typing-fast](https://github.com/paxiqeu/pavelvuong/assets/145435428/b24a2e1a-1432-47cd-8594-4374a51744d3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

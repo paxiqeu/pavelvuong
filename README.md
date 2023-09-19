@@ -2,12 +2,13 @@
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 
 - 🌱 I’m currently learning **javascript**
-- 
+![typing-fast](https://github.com/paxiqeu/pavelvuong/assets/145435428/ed5cae9b-a58c-4db0-9fd9-59b609ee7688)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pavelvuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavelvuong" height="30" width="40" /></a>
 <a href="https://instagram.com/pavelvuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavelvuong" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/paxiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="paxiq" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/paxiq](https://www.youtube.com/@paxiq1499)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="paxiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
